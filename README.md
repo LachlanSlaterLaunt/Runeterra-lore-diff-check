@@ -1,2 +1,2 @@
-# Runeterra-lore-diff-check
-An application that tracks and displays the changes made to the League of Legends lore via universe.leagueoflegends.com
+# Runeterra-lore-download
+An application that downloads the stories from universe.leagueoflegends.com and stores them in a JSON file, created to be eventually used to track changes to the lore over time. 
